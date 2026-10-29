@@ -1,0 +1,73 @@
+{
+  "title": "The Second Brain Stack",
+  "when": "AiEdge Summit · Thursday, October 29, 2026 · Workshop",
+  "cover": "title",
+  "order": [
+    "title",
+    "housekeeping",
+    "dumpster",
+    "outcomes",
+    "preflight",
+    "problem",
+    "anatomy",
+    "solutions",
+    "para",
+    "zettelkasten",
+    "johnny-decimal",
+    "structures",
+    "idea",
+    "inside",
+    "loop",
+    "build1",
+    "build2",
+    "connect-claude",
+    "connect-chatgpt",
+    "connect-grokbot",
+    "connect-muse",
+    "handoff",
+    "build3",
+    "toolkit",
+    "deeper",
+    "tonight"
+  ],
+  "sections": {
+    "welcome": {
+      "description": "Welcome: title, housekeeping, outcomes, and the pre-flight check people start right away",
+      "start": "title"
+    },
+    "why": {
+      "description": "Why a shared brain: every agent starts from zero, the four parts of a second brain, what people use for each part, PARA, Zettelkasten and Johnny.Decimal, then ours",
+      "start": "problem"
+    },
+    "build-1": {
+      "description": "Build 1: create your brain with the setup prompt",
+      "start": "build1"
+    },
+    "build-2": {
+      "description": "Build 2: connect more agents, one slide per app, then the handoff test",
+      "start": "build2"
+    },
+    "build-3": {
+      "description": "Guardrails: rules.md, then a live demo of an agent refusing to break one",
+      "start": "build3"
+    },
+    "wrap": {
+      "description": "Wrap: the builder toolkit and secrets, how to go deeper, and connecting other devices tonight",
+      "start": "toolkit"
+    }
+  },
+  "faces": {
+    "inter": {
+      "family": "Inter",
+      "href": "https://fonts.googleapis.com/css2?family=Inter:wght@400..700&display=swap"
+    },
+    "inter-tight": {
+      "family": "Inter Tight",
+      "href": "https://fonts.googleapis.com/css2?family=Inter+Tight:wght@600..800&display=swap"
+    },
+    "jetbrains-mono": {
+      "family": "JetBrains Mono",
+      "href": "https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@500..700&display=swap"
+    }
+  }
+}
